@@ -1,4 +1,5 @@
 MapReduce
+
 MapReduce计算模型
 模型接受一系列的键值对作为输入，并输出一系列键值对作为结果。用户通过设计Map和Reduce函数来使用MapReduce System
 Map：接受输入数据，生成一组中间键值对
